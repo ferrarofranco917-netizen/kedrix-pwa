@@ -1,0 +1,22 @@
+{
+  "result": "PASS",
+  "checks": [
+    "manifest relative scope/start_url for HTTPS subpath",
+    "PNG sizes 192/512",
+    "only TEST /dev destination",
+    "no iframe/auth/forms/offline cache/tracking",
+    "branding assets present"
+  ],
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "README_DEPLOY_E_TEST.md": "1aee807b4a7237e4869cd74fd0bc1649707aa4c6ea271e47b790ce854aad1fea",
+    "index.html": "569d0eb179c927ccb1b98c15c20d8205e2007b387b4d93fbded7c65abd2ebb85",
+    "kedrix-192.png": "76257fcf77bdfe861c2fa3050ffea6e0db289cc6ed1c1e70f838f6bf77576738",
+    "manifest.webmanifest": "f9cdd59f64dc72a0510acb18e27e429977a96a21dc4bc85c1451eafd567978f8",
+    "kedrix.ico": "e46b95323afec15dcf54e3beb2f6f4e45e4af4d86aa0f667e824ab06116f72a6",
+    "404.html": "eec3f3f09c36f5b0d4759a773d90782e0824263fc7acd246d9f84afaab7b45c1",
+    "kedrix-icon.svg": "ff652c0ce5ecc6bdb1906fff5f537e7ec9596386d5bf2f1d1ef9cca9fee51e3e",
+    "kedrix-512.png": "9faa9d1953c472e62c3bff384984910835a9e95292986be3dcc1631b181f1e8c",
+    "kedrix-48.png": "56bed967d32baf621fbd255493ed176c34afe540861871cb19135cb6b96ce26b"
+  }
+}
